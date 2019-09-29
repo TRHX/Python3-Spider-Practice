@@ -12,7 +12,7 @@
 
 - CSDN 链接：https://itrhx.blog.csdn.net/article/details/101230024
 
-- 个人博客链接：https://www.itrhx.com/2019/09/28/A52-pyspider-combat-douban/
+- 个人博客链接：https://www.itrhx.com/2019/09/24/A51-pyspider-combat-maoyan/
 
 - 效果截图：
 

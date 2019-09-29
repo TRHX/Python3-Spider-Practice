@@ -10,4 +10,6 @@
 
 目录：
 
-- [猫眼电影TOP100](https://github.com/TRHX/Python3-Spider-Practice/tree/master/douban-top250)
+- [猫眼电影TOP100](https://github.com/TRHX/Python3-Spider-Practice/tree/master/maoyan-top100)
+
+- [豆瓣电影TOP250](https://github.com/TRHX/Python3-Spider-Practice/tree/master/douban-top250)
