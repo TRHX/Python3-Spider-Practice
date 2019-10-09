@@ -1,3 +1,12 @@
+# ==========================
+# --*-- coding: utf-8 --*--
+# @Time    : 2019-09-23
+# @Author  : TRHX
+# @Blog    : www.itrhx.com
+# @FileName: maoyan.py
+# @Software: PyCharm
+# ==========================
+
 import requests
 from lxml import etree
 import csv
