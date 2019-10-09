@@ -4,7 +4,7 @@
 
 - 爬取难度：★★☆☆☆☆
 
-- 请求链接：[豆瓣电影 Top 250](https://movie.douban.com/top250) 以及每部电影详情页
+- 请求链接：https://movie.douban.com/top250 以及每部电影详情页
 
 - 爬取目标：爬取榜单上每一部电影详情页的数据，保存为 CSV 文件；下载所有电影海报到本地
 
@@ -12,7 +12,7 @@
 
 - CSDN 链接：https://itrhx.blog.csdn.net/article/details/101572275
 
-- 个人博客链接：https://www.itrhx.com/2019/09/28/A52-pyspider-combat-douban/
+- 个人博客链接：https://www.itrhx.com/2019/09/28/A52-pyspider-doubantop250/
 
 - 效果截图：
 
