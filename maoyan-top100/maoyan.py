@@ -1,11 +1,12 @@
-# ==========================
+# =============================================
 # --*-- coding: utf-8 --*--
 # @Time    : 2019-09-23
 # @Author  : TRHX
 # @Blog    : www.itrhx.com
+# @CSDN    : https://blog.csdn.net/qq_36759224
 # @FileName: maoyan.py
 # @Software: PyCharm
-# ==========================
+# =============================================
 
 import requests
 from lxml import etree
