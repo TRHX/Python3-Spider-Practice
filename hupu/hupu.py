@@ -1,11 +1,12 @@
-# ==========================
+# =============================================
 # --*-- coding: utf-8 --*--
 # @Time    : 2019-10-12
 # @Author  : TRHX
 # @Blog    : www.itrhx.com
+# @CSDN    : https://blog.csdn.net/qq_36759224
 # @FileName: hupu.py
 # @Software: PyCharm
-# ==========================
+# =============================================
 
 import requests
 import time
