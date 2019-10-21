@@ -1,11 +1,12 @@
-# ==========================
+# =============================================
 # --*-- coding: utf-8 --*--
 # @Time    : 2019-09-27
 # @Author  : TRHX
 # @Blog    : www.itrhx.com
+# @CSDN    : https://blog.csdn.net/qq_36759224
 # @FileName: douban.py
 # @Software: PyCharm
-# ==========================
+# =============================================
 
 import requests
 from lxml import etree
