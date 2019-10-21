@@ -58,4 +58,4 @@ if __name__ == '__main__':
         results = parse_page(index)
         for i in results:
             save_results(i)
-    print('数据爬取完毕！！')
+    print('数据爬取完毕！')
