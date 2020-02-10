@@ -2,8 +2,8 @@
 # --*-- coding: utf-8 --*--
 # @Time    : 2019-10-21
 # @Author  : TRHX
-# @Blog    : www.itrhx.com
-# @CSDN    : https://blog.csdn.net/qq_36759224
+# @Blog    : https://www.itrhx.com/
+# @CSDN    : https://itrhx.blog.csdn.net/
 # @FileName: bilibili.py
 # @Software: PyCharm
 # =============================================
@@ -29,9 +29,9 @@ def init():
     chrome_options.add_argument('--start-maximized')
     browser = webdriver.Chrome(executable_path=path, chrome_options=chrome_options)
     # 你的哔哩哔哩用户名
-    username = '15572414700'
+    username = '***********'
     # 你的哔哩哔哩登录密码
-    password = 'TRH12090612'
+    password = '***********'
     wait = WebDriverWait(browser, 20)
 
 
