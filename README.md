@@ -10,26 +10,28 @@
 
 基础训练：
 
-- [猫眼电影TOP100](https://github.com/TRHX/Python3-Spider-Practice/tree/master/maoyan-top100)  【涉及知识：requests、lxml、Xpath、CSV】
+- [猫眼电影TOP100](https://github.com/TRHX/Python3-Spider-Practice/tree/master/maoyan-top100)  【requests、lxml、Xpath、CSV】
 
-- [豆瓣电影TOP250](https://github.com/TRHX/Python3-Spider-Practice/tree/master/douban-top250)  【涉及知识：requests、lxml、Xpath、正则表达式、CSV、二进制数据储存】
+- [豆瓣电影TOP250](https://github.com/TRHX/Python3-Spider-Practice/tree/master/douban-top250)  【requests、lxml、Xpath、正则表达式、CSV、二进制数据储存】
 
-- [安居客武汉二手房](https://github.com/TRHX/Python3-Spider-Practice/tree/master/anjuke)  【涉及知识：requests、Beautiful Soup、CSV、列表操作、分页判断】
+- [安居客武汉二手房](https://github.com/TRHX/Python3-Spider-Practice/tree/master/anjuke)  【requests、Beautiful Soup、CSV、列表操作、分页判断】
 
-- [虎扑论坛步行街](https://github.com/TRHX/Python3-Spider-Practice/tree/master/hupu)  【涉及知识：requests、Beautiful Soup、数据库 MongoDB】
+- [虎扑论坛步行街](https://github.com/TRHX/Python3-Spider-Practice/tree/master/hupu)  【requests、Beautiful Soup、数据库 MongoDB】
 
-- [瓜子全国二手车](https://github.com/TRHX/Python3-Spider-Practice/tree/master/guazi)  【涉及知识：requests、Cookie、XPath、数据库 MongoDB】
+- [瓜子全国二手车](https://github.com/TRHX/Python3-Spider-Practice/tree/master/guazi)  【requests、Cookie、XPath、数据库 MongoDB】
 
-模拟登陆：
+Selenium：
 
-- [模拟登陆哔哩哔哩](https://github.com/TRHX/Python3-Spider-Practice/tree/master/bilibili-login)  【涉及知识：滑动验证码、Selenium】
+- [模拟登陆哔哩哔哩](https://github.com/TRHX/Python3-Spider-Practice/tree/master/bilibili-login)  【滑动验证码、Selenium】
 
-- [模拟登陆12306](https://github.com/TRHX/Python3-Spider-Practice/tree/master/12306-login)  【涉及知识：点触验证码、Selenium、对接在线打码平台】
+- [模拟登陆12306](https://github.com/TRHX/Python3-Spider-Practice/tree/master/12306-login)  【点触验证码、Selenium、对接在线打码平台】
 
 反反爬虫：
 
-- [58同城武汉出租房](https://github.com/TRHX/Python3-Spider-Practice/tree/master/58tongcheng)  【涉及知识：网站加密字体、requests、Beautiful Soup、数据库 MySQL】
+- [58同城武汉出租房](https://github.com/TRHX/Python3-Spider-Practice/tree/master/58tongcheng)  【网站加密字体、requests、Beautiful Soup、数据库 MySQL】
 
 爬虫 + 数据可视化：
 
-- [COVID-19 肺炎疫情数据实时监控](https://github.com/TRHX/Python3-Spider-Practice/tree/master/COVID-19)  【涉及知识：openpyxl 表格操作、pyecharts 数据可视化、wordcloud 词云图】
+- [COVID-19 肺炎疫情数据实时监控](https://github.com/TRHX/Python3-Spider-Practice/tree/master/COVID-19)  【openpyxl 表格操作、pyecharts 数据可视化、wordcloud 词云图】
+
+- [前程无忧招聘信息爬取](https://github.com/TRHX/Python3-Spider-Practice/tree/master/51job)  【requests、Xpath、正则表达式、数据库 MongoDB、Numpy、Pandas、Matplotlib】
