@@ -35,3 +35,7 @@ Selenium：
 - [COVID-19 肺炎疫情数据实时监控](https://github.com/TRHX/Python3-Spider-Practice/tree/master/COVID-19)  【openpyxl 表格操作、pyecharts 数据可视化、wordcloud 词云图】
 
 - [前程无忧招聘信息爬取](https://github.com/TRHX/Python3-Spider-Practice/tree/master/51job)  【requests、Xpath、正则表达式、数据库 MongoDB、Numpy、Pandas、Matplotlib】
+
+签到抽奖：
+
+- [CSDN Sign In - CSDN 自动签到抽奖](https://github.com/TRHX/Python3-Spider-Practice/tree/master/csdn-sign-in)  【cookies、GitHub Actions、钉钉、企业微信机器人】
