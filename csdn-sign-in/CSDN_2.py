@@ -69,7 +69,7 @@ class CSDN:
             'uuid': self.UUID
         }
 
-    def csdn_sign_in(self):
+    def csdn_sign_in(self) -> None:
         global TEXT, DESP
         response = requests.post(url=self.SIGN_IN_URL, headers=self.HEADERS, data=self.DATA)
         result = json.loads(response.text)
@@ -100,7 +100,7 @@ class CSDN:
             TEXT = 'CSDN 签到失败！'
             print('签到失败！')
 
-    def csdn_luck_draw(self):
+    def csdn_luck_draw(self) -> None:
         if self.DRAW_TIMES != 0:
             global TEXT, DESP
             response = requests.post(url=self.LUCKY_DRAW_URL, headers=self.HEADERS, data=self.DATA)
@@ -131,11 +131,11 @@ class CSDN:
 
 class Notice:
     @staticmethod
-    def sever():
+    def sever() -> None:
         requests.get('https://sc.ftqq.com/{}.send?text={}&desp={}'.format(SEVER_SCKEY, TEXT, DESP))
 
     @staticmethod
-    def wechat():
+    def wechat() -> None:
         data = {
             'msgtype': 'text',
             'text': {
@@ -146,7 +146,7 @@ class Notice:
         requests.post(url=WECHAT_URL, headers=headers, data=json.dumps(data))
 
     @staticmethod
-    def ding():
+    def ding() -> None:
         timestamp = str(round(time.time() * 1000))
         secret = DING_SECRET
         secret_enc = secret.encode('utf-8')
@@ -165,7 +165,7 @@ class Notice:
         requests.post(url=complete_url, data=json.dumps(data), headers=headers)
 
 
-def run():
+def run() -> None:
     c = CSDN()
     n = Notice()
     c.csdn_sign_in()

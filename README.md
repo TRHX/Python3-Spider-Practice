@@ -38,4 +38,4 @@ Selenium：
 
 签到抽奖：
 
-- [CSDN Sign In - CSDN 自动签到抽奖](https://github.com/TRHX/Python3-Spider-Practice/tree/master/csdn-sign-in)  【cookies、GitHub Actions、钉钉、企业微信机器人】
+- [CSDN 自动签到抽奖](https://github.com/TRHX/Python3-Spider-Practice/tree/master/csdn-sign-in)  【cookies、GitHub Actions、钉钉、企业微信机器人】

@@ -19,7 +19,7 @@ IF_LUCK_DRAW = True  # 是否开启抽奖
 
 
 class CSDN:
-    def __init__(self):
+    def __init__(self) -> None:
         self.UUID = COOKIE.split(';', 1)[0].split('=', 1)[1]
         self.USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36'
         self.SIGN_IN_URL = 'https://me.csdn.net/api/LuckyDraw_v2/signIn'
@@ -48,7 +48,7 @@ class CSDN:
             'uuid': self.UUID
         }
 
-    def csdn_sign_in(self):
+    def csdn_sign_in(self) -> None:
         response = requests.post(url=self.SIGN_IN_URL, headers=self.HEADERS, data=self.DATA)
         result = json.loads(response.text)
         # print(result)
@@ -70,7 +70,7 @@ class CSDN:
         else:
             print('签到失败！')
 
-    def csdn_luck_draw(self):
+    def csdn_luck_draw(self) -> None:
         if self.DRAW_TIMES != 0:
             response = requests.post(url=self.LUCKY_DRAW_URL, headers=self.HEADERS, data=self.DATA)
             result = json.loads(response.text)
@@ -90,7 +90,7 @@ class CSDN:
                 print('抽奖失败！')
 
 
-def run():
+def run() -> None:
     c = CSDN()
     c.csdn_sign_in()
     if IF_LUCK_DRAW:
