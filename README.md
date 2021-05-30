@@ -39,3 +39,9 @@ Selenium：
 签到抽奖：
 
 - [CSDN 自动签到抽奖](https://github.com/TRHX/Python3-Spider-Practice/tree/master/csdn-sign-in)  【cookies、GitHub Actions、钉钉、企业微信机器人】
+
+评论插件：
+
+- [Facebook 评论插件、留言外挂程序采集](https://github.com/TRHX/Python3-Spider-Practice/tree/master/facebook-comments)
+
+- [Vuukle 评论插件采集](https://github.com/TRHX/Python3-Spider-Practice/tree/master/vuukle-comments)
