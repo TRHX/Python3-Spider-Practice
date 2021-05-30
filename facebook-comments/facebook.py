@@ -55,6 +55,11 @@ class FacebookComment:
 
     @staticmethod
     def save_comment(filename: str, information: json) -> None:
+        """
+        :param filename: 字符串，储存文件名
+        :param information: JSON，储存的内容
+        :return: None
+        """
         with open(filename, 'a+', encoding='utf-8') as f:
             f.write(information + '\n')
 

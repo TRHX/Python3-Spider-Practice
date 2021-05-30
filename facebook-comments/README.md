@@ -10,7 +10,7 @@
 
 - Facebook 评论插件官网：https://developers.facebook.com/products/social-plugins/comments
 
-- 本文的采集代码适用于 Facebook 评论插件的评论采集。仅用于 Python 编程技术交流！
+- 本采集代码适用于 Facebook 评论插件的评论采集。仅用于 Python 编程技术交流！
 
 - 效果截图：
 
