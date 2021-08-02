@@ -1,3 +1,13 @@
+# =============================================
+# --*-- coding: utf-8 --*--
+# @Time    : 2019-10-21
+# @Blog    : www.itrhx.com
+# @CSDN    : itrhx.blog.csdn.net
+# @FileName: chaojiying.py
+# @Software: PyCharm
+# =============================================
+
+
 import requests
 from hashlib import md5
 
