@@ -18,4 +18,4 @@ CSDN 文章：https://itrhx.blog.csdn.net/article/details/117375471
 
 # CSDN_2.py
 
-通过 GitHub Actions 实现了每天自动签到抽奖功能，签到结果可选通知：Server 酱、企业微信、钉钉，代码不能直接运行，这是放到 GitHub Actions 上执行的代码，使用方法见 https://github.com/TRHX/CSDNSignIn ，如果要本地运行，则需要将配置项目 1 2 3 中 os.environ["xxxxx"] 换成各自对应的值！
+通过 GitHub Actions 实现了每天自动签到抽奖功能，签到结果可选通知：Server 酱、企业微信、钉钉，代码不能直接运行，这是放到 GitHub Actions 上执行的代码，使用方法见 https://github.com/TRHX/CSDNSignIn ，如果要本地运行，则需要将配置项目 1 2 3 中的 os.environ["xxxxx"] 换成各自对应的值！
