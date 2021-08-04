@@ -136,3 +136,9 @@
 - [中烟新商盟登录](https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/www_xinshangmeng_com)
 
 - [三河市政务网数据](https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/zwfw_san-he_gov_cn)
+
+- [中国移动掌上门户登录](https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/wap_10086_cn)
+
+- [中国联通网上营业厅登录](https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/uac_10010_com)
+
+- [37网游登录](https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/www_37_com)
