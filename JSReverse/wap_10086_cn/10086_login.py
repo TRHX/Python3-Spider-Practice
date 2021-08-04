@@ -1,5 +1,12 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
+# ==================================
+# --*-- coding: utf-8 --*--
+# @Time    : 2021-08-04
+# @Author  : TRHX
+# @Blog    : www.itrhx.com
+# @CSDN    : itrhx.blog.csdn.net
+# @FileName: 10086_login.py
+# @Software: PyCharm
+# ==================================
 
 
 import time
