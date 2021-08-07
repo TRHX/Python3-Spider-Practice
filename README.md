@@ -1,7 +1,9 @@
 <h2 align="center">Python3 Spider Practice —— Python3 爬虫实战练习</h2>
 <br>
 <div align="center">
-    <img alt="Python3 Spider Practice" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.1/icons/spyderide.svg" height="200" width="200"></img>
+    <a href="https://github.com/TRHX/Python3-Spider-Practice">
+        <img alt="Python3 Spider Practice" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.1/icons/spyderide.svg" height="260" width="260"></img>
+    </a>
 </div>
 <br>
 <div align="center">
@@ -46,19 +48,19 @@
 
 ## 分类 🏷️
 
-- **AutomationTool**：使用自动化工具进行数据采集、验证码处理等；
+- **[AutomationTool](https://github.com/TRHX/Python3-Spider-Practice#automationtool-%E8%87%AA%E5%8A%A8%E5%8C%96%E5%B7%A5%E5%85%B7)**：使用自动化工具进行数据采集、验证码处理等；
 
-- **BasicTraining**：基础训练，一般是比较简单的爬虫；
+- **[BasicTraining](https://github.com/TRHX/Python3-Spider-Practice#basictraining-%E5%9F%BA%E7%A1%80%E8%AE%AD%E7%BB%83)**：基础训练，一般是比较简单的爬虫；
 
-- **CommentPlugin**：针对各大评论插件的爬虫，如 Facebook 评论插件等；
+- **[CommentPlugin](https://github.com/TRHX/Python3-Spider-Practice#commentplugin-%E8%AF%84%E8%AE%BA%E6%8F%92%E4%BB%B6)**：针对各大评论插件的爬虫，如 Facebook 评论插件等；
 
-- **FightAgainstSpider**：针对常见的反爬虫手段的爬虫，如字体加密等；
+- **[FightAgainstSpider](https://github.com/TRHX/Python3-Spider-Practice#fightagainstspider-%E5%8F%8D%E5%8F%8D%E7%88%AC)**：针对常见的反爬虫手段的爬虫，如字体加密等；
 
-- **JSReverse**：JS 加密解密、JS 逆向相关，重点关注逆向解密过程；
+- **[JSReverse](https://github.com/TRHX/Python3-Spider-Practice#jsreverse-js-%E9%80%86%E5%90%91)**：JS 加密解密、JS 逆向相关，重点关注逆向解密过程；【可以关注 [K 哥爬虫](https://blog.csdn.net/kdl_csdn) 同步更新】
 
-- **SignIn**：针对各种签到、抽奖的爬虫；
+- **[SignIn](https://github.com/TRHX/Python3-Spider-Practice#signin-%E7%AD%BE%E5%88%B0%E6%8A%BD%E5%A5%96)**：针对各种签到、抽奖的爬虫；
 
-- **SpiderDataVisualization**：爬虫与数据可视化，如 COVID-19 数据可视化等；
+- **[SpiderDataVisualization](https://github.com/TRHX/Python3-Spider-Practice#spiderdatavisualization-%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96)**：爬虫与数据可视化，如 COVID-19 数据可视化等。
 
 ## 目录 📑
 
@@ -74,34 +76,39 @@
 
 - [猫眼电影TOP100](https://github.com/TRHX/Python3-Spider-Practice/tree/master/BasicTraining/maoyan-top100)  
 
-## AutomationTool 自动化工具
+### AutomationTool 自动化工具
 
 - [模拟登陆哔哩哔哩](https://github.com/TRHX/Python3-Spider-Practice/tree/master/AutomationTool/bilibili-login)  【滑动验证码、Selenium】
 
 - [模拟登陆12306](https://github.com/TRHX/Python3-Spider-Practice/tree/master/AutomationTool/12306-login)  【点触验证码、Selenium】
 
-## SpiderDataVisualization 数据可视化
+### SpiderDataVisualization 数据可视化
 
 - [前程无忧招聘信息](https://github.com/TRHX/Python3-Spider-Practice/tree/master/SpiderDataVisualization/51job)  【MongoDB、Numpy、Pandas、Matplotlib】
 
 - [COVID-19 肺炎疫情数据实时监控](https://github.com/TRHX/Python3-Spider-Practice/tree/master/SpiderDataVisualization/COVID-19)  【openpyxl、pyecharts、wordcloud】
 
-
-## SignIn 签到抽奖
+### SignIn 签到抽奖
 
 - [CSDN 自动签到抽奖](https://github.com/TRHX/Python3-Spider-Practice/tree/master/SignIn/csdn-sign-in)  【GitHub Actions、钉钉、企业微信机器人】
 
-## CommentPlugin 评论插件
+### CommentPlugin 评论插件
 
 - [Facebook 评论插件、留言外挂程序](https://github.com/TRHX/Python3-Spider-Practice/tree/master/CommentPlugin/facebook-comments)
 
 - [Vuukle 评论插件](https://github.com/TRHX/Python3-Spider-Practice/tree/master/CommentPlugin/vuukle-comments)
 
-## FightAgainstSpider 反反爬
+### FightAgainstSpider 反反爬
 
 - [58同城武汉出租房](https://github.com/TRHX/Python3-Spider-Practice/tree/master/FightAgainstSpider/58tongcheng)【网站加密字体、MySQL】
 
-## JSReverse JS 逆向
+### JSReverse JS 逆向
+
+<div align="center">
+    <a href="https://itrhx.blog.csdn.net/">
+        <img alt="JS 逆向百例" src="https://img-blog.csdnimg.cn/a16576634bce467fb2c4fa143bb30f64.png"></img>
+    </a>
+</div>
 
 - [百度翻译](https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/fanyi_baidu_com)
 
