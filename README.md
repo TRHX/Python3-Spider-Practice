@@ -148,4 +148,8 @@
 
 - [中国联通网上营业厅登录](https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/uac_10010_com)
 
+- [中国电信网上营业厅登录](https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/login_189_cn)
+
 - [37网游登录](https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/www_37_com)
+
+- [爱应用登录](https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/www_iappstoday_com)
