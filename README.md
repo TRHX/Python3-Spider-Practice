@@ -153,3 +153,11 @@
 - [37网游登录](https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/www_37_com)
 
 - [爱应用登录](https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/www_iappstoday_com)
+
+- [Steam 登录](https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/store_steampowered_com)
+
+- [360 登录](https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/i_360_cn)
+
+- [1号店登录](https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/passport_yhd_com)
+
+- [匀加速商城登录](https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/www_15yunmall_com)
