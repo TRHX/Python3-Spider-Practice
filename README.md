@@ -161,3 +161,7 @@
 - [1号店登录](https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/passport_yhd_com)
 
 - [匀加速商城登录](https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/www_15yunmall_com)
+
+- [魅族登录](https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/login_flyme_cn)
+
+- [小米登录](https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/account_xiaomi_com)
