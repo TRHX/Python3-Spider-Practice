@@ -48,6 +48,8 @@
 
 ## 分类 🏷️
 
+- **[Material](https://github.com/TRHX/Python3-Spider-Practice/tree/master/Material)**：爬虫相关资料，均从互联网收集；
+
 - **[AutomationTool](https://github.com/TRHX/Python3-Spider-Practice#automationtool-%E8%87%AA%E5%8A%A8%E5%8C%96%E5%B7%A5%E5%85%B7)**：使用自动化工具进行数据采集、验证码处理等；
 
 - **[BasicTraining](https://github.com/TRHX/Python3-Spider-Practice#basictraining-%E5%9F%BA%E7%A1%80%E8%AE%AD%E7%BB%83)**：基础训练，一般是比较简单的爬虫；
