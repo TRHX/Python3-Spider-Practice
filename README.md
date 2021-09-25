@@ -1,12 +1,6 @@
 <h2 align="center">Python3 Spider Practice —— Python3 爬虫实战练习</h2>
 <br>
 <div align="center">
-    <a href="https://github.com/TRHX/Python3-Spider-Practice">
-        <img alt="Python3 Spider Practice" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.1/icons/spyderide.svg" height="260" width="260"></img>
-    </a>
-</div>
-<br>
-<div align="center">
     <a href="https://itrhx.blog.csdn.net/category_9351278.html">
         <img alt="CSDN 爬虫实战专栏" src="https://img.shields.io/static/v1?label=CSDN%20%E7%88%AC%E8%99%AB%E5%AE%9E%E6%88%98%E4%B8%93%E6%A0%8F&message=%20&color=%23F91310&logo=SciPy&style=flat-square&logoColor=white">
     </a>&nbsp;&nbsp;
@@ -33,6 +27,13 @@
     </a>&nbsp;&nbsp;
         <a href="https://github.com/TRHX/Python3-Spider-Practice">
         <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/TRHX/Python3-Spider-Practice?label=Stars&logo=GitHub&style=flat-square">
+    </a>
+</div>
+<br>
+<div align="center">
+    <a href="https://github.com/TRHX/Python3-Spider-Practice">
+        <img alt="Python3 Spider Practice" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.1/icons/spyderide.svg" height="260" width="260"></img>
+        <img alt="微信公众号：K哥爬虫" src="https://img-blog.csdnimg.cn/c8918142f3fa4bb3adb1df0e253cd2ff.gif"></img>
     </a>
 </div>
 
@@ -107,8 +108,8 @@
 ### JSReverse JS 逆向
 
 <div align="center">
-    <a href="https://itrhx.blog.csdn.net/">
-        <img alt="JS 逆向百例" src="https://img-blog.csdnimg.cn/6f9febc1da4b4e96902f5b5104277a0d.png"></img>
+    <a href="https://blog.csdn.net/kdl_csdn">
+        <img alt="JS 逆向百例" src="https://img-blog.csdnimg.cn/f8883d64c32c4317b961b8cb7c793abc.png"></img>
     </a>
 </div>
 
