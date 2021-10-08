@@ -47,7 +47,7 @@ function getEncryptedData(username, password) {
 
 ![04.png](https://i.loli.net/2021/08/18/mtBzUn5j7AeTEqZ.png)
 
-本地调试会发现提示 window 和 navigator 对象未定义，直接定义为空即可。`navigator = {}; window = {};`，此外还会提示 ASN1 未定义，直接将 `window.ASN1 = a` 改为 `ASN1 = a` 即可。
+本地调试会发现提示 window 和 navigator 对象未定义，直接定义为空即可。`navigator = {}; window = {};`，此外还会提示 ASN1 未定义，直接将 `window.ASN1 = a` 改为 `ASN1 = a` 即可。还有一种方法就是将 window 直接定义为 global 即可：`window = global;`
 
 ## 加密 JS 剥离
 

@@ -1,5 +1,5 @@
 navigator = {};
-window = {};
+window = global;
 
 var JSEncryptExports = {};
 (function (a6) {
@@ -3634,7 +3634,7 @@ var JSEncryptExports = {};
                 }
             }
         };
-        ASN1 = a
+        window.ASN1 = a
     })();
 ASN1.prototype.getHexStringValue = function() {
    var b = this.toHexString();
