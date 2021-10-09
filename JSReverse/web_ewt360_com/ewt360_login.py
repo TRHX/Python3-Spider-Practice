@@ -1,5 +1,13 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
+# ==================================
+# --*-- coding: utf-8 --*--
+# @Time    : 2021-10-09
+# @Author  : TRHX
+# @Blog    : www.itrhx.com
+# @CSDN    : itrhx.blog.csdn.net
+# @FileName: ewt360_login.py
+# @Software: PyCharm
+# ==================================
+
 
 import time
 import hashlib
