@@ -84,7 +84,7 @@ console.log(getEncryptedPassword(password, timestamp));
 
 ### webpack 改写
 
-本文的标题是 webpack 改写实战，所以很显然本文的目的是为了练习 JavaScript 模块化编程 webpack 代码的改写，现在大多数站点都使用了这种写法，然而并不是所有站点都像本文遇到的站点一样，可以很容易使用其他方法来实现的，往往大多数站点需要你自己扒下他的源码来还原加密过程，有关 JavaScript 模块化编程，即 webpack，在 K 哥往期的文章中有过详细的介绍：xxxxxxxxx
+本文的标题是 webpack 改写实战，所以很显然本文的目的是为了练习 JavaScript 模块化编程 webpack 代码的改写，现在大多数站点都使用了这种写法，然而并不是所有站点都像本文遇到的站点一样，可以很容易使用其他方法来实现的，往往大多数站点需要你自己扒下他的源码来还原加密过程，有关 JavaScript 模块化编程，即 webpack，在 K 哥往期的文章中有过详细的介绍：[爬虫逆向基础，理解 JavaScript 模块化编程 webpack]()
 
 一个标准的 webpack 整体是一个 IIFE 立即调用函数表达式，其中有一个模块加载器，也就是调用模块的函数，该函数中一般具有 `function.call()` 或者 `function.apply()` 方法，IIFE 传递的参数是一个列表或者字典，里面是一些需要调用的模块，写法类似于：
 
@@ -247,13 +247,9 @@ var window = global;
 
 这里扩展一下，在浏览器里面 window 其实就是 global，在 nodejs 里没有 window，但是有个 global，与浏览器的 window 对象类型相似，是全局可访问的对象，因此在 nodejs 环境中可以将 window 定义为 global，如果定义为空，可能会引起其他错误。
 
-## 完整代码
+## 加密 JS 剥离
 
-GitHub 关注 K 哥爬虫，持续分享爬虫相关代码！欢迎 star ！https://github.com/kgepachong/
-
-**以下只演示部分关键代码，不能直接运行！**完整代码仓库地址：https://github.com/kgepachong/crawler/
-
-### JavaScript 加密关键代码架构
+关键代码架构如下：
 
 方法一：webpack 改写源码实现 RSA 加密：
 
@@ -326,131 +322,4 @@ function getEncryptedPassword(t) {
 
 // 测试样例
 // console.log(getEncryptedPassword("12345678"));
-```
-
-### Python 登录关键代码
-
-```python
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-
-
-import re
-import json
-import time
-import random
-import base64
-from urllib import parse
-
-import execjs
-import requests
-from PIL import Image
-from Cryptodome.PublicKey import RSA
-from Cryptodome.Cipher import PKCS1_v1_5
-
-login_url = '脱敏处理，完整代码关注 GitHub：https://github.com/kgepachong/crawler'
-verify_image_url = '脱敏处理，完整代码关注 GitHub：https://github.com/kgepachong/crawler'
-check_code_url = '脱敏处理，完整代码关注 GitHub：https://github.com/kgepachong/crawler'
-
-headers = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
-}
-session = requests.session()
-
-
-def get_jquery():
-    jsonp = ''
-    for _ in range(21):
-        jsonp += str(random.randint(0, 9))
-    jquery = 'jQuery' + jsonp + '_'
-    return jquery
-
-
-def get_dict_from_jquery(text):
-    result = re.findall(r'\((.*?)\)', text)[0]
-    return json.loads(result)
-
-
-def get_encrypted_password_by_javascript(password):
-    # 两个 JavaScript 脚本，两种方法均可
-    with open('gm99_encrypt.js', 'r', encoding='utf-8') as f:
-    # with open('gm99_encrypt_2.js', 'r', encoding='utf-8') as f:
-        exec_js = f.read()
-    encrypted_password = execjs.compile(exec_js).call('getEncryptedPassword', password)
-    return encrypted_password
-
-
-def get_encrypted_password_by_python(password):
-    timestamp = str(int(time.time() * 1000))
-    encrypted_object = timestamp + "|" + password
-    public_key = "脱敏处理，完整代码关注 GitHub：https://github.com/kgepachong/crawler"
-    rsa_key = RSA.import_key(base64.b64decode(public_key))  # 导入读取到的公钥
-    cipher = PKCS1_v1_5.new(rsa_key)                        # 生成对象
-    encrypted_password = base64.b64encode(cipher.encrypt(encrypted_object.encode(encoding="utf-8")))
-    encrypted_password = parse.quote(encrypted_password)
-    return encrypted_password
-
-
-def get_verify_code():
-    response = session.get(url=verify_image_url, headers=headers)
-    with open('code.png', 'wb') as f:
-        f.write(response.content)
-    image = Image.open('code.png')
-    image.show()
-    code = input('请输入图片验证码: ')
-    return code
-
-
-def check_code(code):
-    timestamp = str(int(time.time() * 1000))
-    params = {
-        'callback': get_jquery() + timestamp,
-        'ckcode': code,
-        '_': timestamp,
-    }
-    response = session.get(url=check_code_url, params=params, headers=headers)
-    result = get_dict_from_jquery(response.text)
-    if result['result'] == 1:
-        pass
-    else:
-        raise Exception('验证码输入错误！')
-
-
-def login(username, encrypted_password, code):
-    timestamp = str(int(time.time() * 1000))
-    params = {
-        'callback': get_jquery() + timestamp,
-        'encrypt': 1,
-        'uname': username,
-        'password': encrypted_password,
-        'remember': 'checked',
-        'ckcode': code,
-        '_': timestamp
-    }
-    response = session.get(url=login_url, params=params, headers=headers)
-    result = get_dict_from_jquery(response.text)
-    print(result)
-
-
-def main():
-    # 测试账号：15434947408，密码：iXqC@aJt8fi@VwV
-    username = input('请输入登录账号: ')
-    password = input('请输入登录密码: ')
-
-    # 获取加密后的密码，使用 Python 或者 JavaScript 实现均可
-    encrypted_password = get_encrypted_password_by_javascript(password)
-    # encrypted_password = get_encrypted_password_by_python(password)
-
-    # 获取验证码
-    code = get_verify_code()
-
-    # 校验验证码
-    check_code(code)
-
-    # 登录
-    login(username, encrypted_password, code)
-
-
-if __name__ == '__main__':
-    main()
 ```
