@@ -1,6 +1,4 @@
-## 【JS 逆向百例】webpack 改写实战，G 某游戏 RSA 加密
-
-![](https://i.loli.net/2021/08/07/JbP4zaS2TxU6Rkd.png)
+<h2>【JS 逆向百例】webpack 改写实战，G 某游戏 RSA 加密</h2>
 
 > 关注微信公众号：K哥爬虫，QQ交流群：808574309，持续分享爬虫进阶、JS/安卓逆向等技术干货！
 
