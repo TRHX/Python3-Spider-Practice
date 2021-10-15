@@ -131,10 +131,6 @@ print(random_number)
 
 ## 完整代码
 
-GitHub 关注 K 哥爬虫，持续分享爬虫相关代码！欢迎 star ！https://github.com/kgepachong/
-
-**以下只演示部分关键代码，不能直接运行！**完整代码仓库地址：https://github.com/kgepachong/crawler/
-
 ### JavaScript 加密代码
 
 ```javascript
