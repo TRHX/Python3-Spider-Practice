@@ -59,7 +59,7 @@
 
 - **[FightAgainstSpider](https://github.com/TRHX/Python3-Spider-Practice#fightagainstspider-%E5%8F%8D%E5%8F%8D%E7%88%AC)**：针对常见的反爬虫手段的爬虫，如字体加密等；
 
-- **[JSReverse](https://github.com/TRHX/Python3-Spider-Practice#jsreverse-js-%E9%80%86%E5%90%91)**：JS 加密解密、JS 逆向相关，重点关注逆向解密过程；【可以关注 [K 哥爬虫](https://blog.csdn.net/kdl_csdn) 同步更新】
+- **[JSReverse](https://github.com/TRHX/Python3-Spider-Practice#jsreverse-js-%E9%80%86%E5%90%91)**：JS 加密解密、JS 逆向相关文章，重点关注逆向解密过程；【可以关注 [K 哥爬虫](https://blog.csdn.net/kdl_csdn) 同步更新】
 
 - **[SignIn](https://github.com/TRHX/Python3-Spider-Practice#signin-%E7%AD%BE%E5%88%B0%E6%8A%BD%E5%A5%96)**：针对各种签到、抽奖的爬虫；
 
@@ -205,6 +205,22 @@
     </tr>
     <tr>
         <td>
+            <a href="https://mp.weixin.qq.com/s/vR0ZPCAJMUF992chUfBNSQ">【爬虫知识】浏览器开发者工具使用技巧总结</a>
+        </td>
+        <td>
+        \
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://mp.weixin.qq.com/s/4QTee0M9ukN6olgoR_LMug">【爬虫知识】爬虫常见加密解密算法</a>
+        </td>
+        <td>
+        \
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://mp.weixin.qq.com/s/li_UBzEUvLmaL207eFhyvw">【JS 逆向百例】百度翻译接口参数逆向</a>
         </td>
         <td>
@@ -313,6 +329,30 @@
         </td>
         <td>
             <a href="https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/web_ewt360_com">web_ewt360_com</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://mp.weixin.qq.com/s/IYFyjVrVkHtUdCzn9arkJQ">JS 逆向之 Hook，吃着火锅唱着歌，突然就被麻匪劫了！</a>
+        </td>
+        <td>
+        \
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://mp.weixin.qq.com/s/H4oQvqZmWS4af1VF1nAzkA">【JS 逆向百例】Fiddler 插件 Hook 实战，某创帮登录逆向</a>
+        </td>
+        <td>
+            <a href="https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/m_wcbchina_com">m_wcbchina_com</a>
+        </td>
+    </tr>
+        <tr>
+        <td>
+            <a href="https://mp.weixin.qq.com/s/MaDrCJdJCQKSnXWgCR0c0w">【JS 逆向百例】浏览器插件 Hook 实战，亚航加密参数分析</a>
+        </td>
+        <td>
+            <a href="https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/www_airasia_com">www_airasia_com</a>
         </td>
     </tr>
     <tr>
