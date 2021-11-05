@@ -356,6 +356,38 @@
         </td>
     </tr>
     <tr>
+        <td>
+            <a href="https://mp.weixin.qq.com/s/_-9Ib6H51rWGK60X_g2n1g">爬虫逆向基础，理解 JavaScript 模块化编程 webpack</a>
+        </td>
+        <td>
+            \
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://itrhx.blog.csdn.net/article/details/121167569">当爬虫工程师遇到CTF丨B站1024安全攻防题解</a>
+        </td>
+        <td>
+            \
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://mp.weixin.qq.com/s/LCnpt37NjiTtBYToqNdQaA">【JS 逆向百例】webpack 改写实战，G 某游戏 RSA 加密</a>
+        </td>
+        <td>
+            <a href="https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/www_gm99_com">www_gm99_com</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://mp.weixin.qq.com/s/3PgJTsb3moYES0_UJ9Lwkw">【JS逆向百例】某音乐网分离式 webpack 非 IIFE 改写实战</a>
+        </td>
+        <td>
+            <a href="https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/www_kuwo_cn">www_kuwo_cn</a>
+        </td>
+    </tr>
+    <tr>
         <td>华强电子网登录</td>
         <td>
             <a href="https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/passport_hqew_com">passport_hqew_com</a>
@@ -443,12 +475,6 @@
         <td>魅族登录</td>
         <td>
             <a href="https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/login_flyme_cn">login_flyme_cn</a>
-        </td>
-    </tr>
-    <tr>
-        <td>G妹游戏登录</td>
-        <td>
-            <a href="https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/www_gm99_com">www_gm99_com</a>
         </td>
     </tr>
 </table>
