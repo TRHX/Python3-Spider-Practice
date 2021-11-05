@@ -82,7 +82,7 @@ console.log(getEncryptedPassword(password, timestamp));
 
 ### webpack 改写
 
-本文的标题是 webpack 改写实战，所以很显然本文的目的是为了练习 JavaScript 模块化编程 webpack 代码的改写，现在大多数站点都使用了这种写法，然而并不是所有站点都像本文遇到的站点一样，可以很容易使用其他方法来实现的，往往大多数站点需要你自己扒下他的源码来还原加密过程，有关 JavaScript 模块化编程，即 webpack，在 K 哥往期的文章中有过详细的介绍：[爬虫逆向基础，理解 JavaScript 模块化编程 webpack]()
+本文的标题是 webpack 改写实战，所以很显然本文的目的是为了练习 JavaScript 模块化编程 webpack 代码的改写，现在大多数站点都使用了这种写法，然而并不是所有站点都像本文遇到的站点一样，可以很容易使用其他方法来实现的，往往大多数站点需要你自己扒下他的源码来还原加密过程，有关 JavaScript 模块化编程，即 webpack，在 K 哥往期的文章中有过详细的介绍：[爬虫逆向基础，理解 JavaScript 模块化编程 webpack](https://mp.weixin.qq.com/s/_-9Ib6H51rWGK60X_g2n1g)
 
 一个标准的 webpack 整体是一个 IIFE 立即调用函数表达式，其中有一个模块加载器，也就是调用模块的函数，该函数中一般具有 `function.call()` 或者 `function.apply()` 方法，IIFE 传递的参数是一个列表或者字典，里面是一些需要调用的模块，写法类似于：
 
