@@ -388,6 +388,22 @@
         </td>
     </tr>
     <tr>
+        <td>
+            <a href="https://mp.weixin.qq.com/s/IsoXn_jZI6YdqC7uXVDYiQ">爬虫逆向基础，认识 SM1-SM9、ZUC 国密算法</a>
+        </td>
+        <td>
+            \
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://mp.weixin.qq.com/s/hs0Mz-2GmyOMAdWB22fG5w">【JS 逆向百例】医保局 SM2+SM4 国产加密算法实战</a>
+        </td>
+        <td>
+            <a href="https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/fuwu_nhsa_gov_cn">fuwu_nhsa_gov_cn</a>
+        </td>
+    </tr>
+    <tr>
         <td>华强电子网登录</td>
         <td>
             <a href="https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/passport_hqew_com">passport_hqew_com</a>
