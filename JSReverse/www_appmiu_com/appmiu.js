@@ -127,6 +127,7 @@ function decrypt(t) {
     return s(t)
 }
 
+
 // 测试样例
 // console.log(encrypt("1234"))
 // console.log(decrypt("和谐民主和谐文明和谐和谐和谐自由"))
