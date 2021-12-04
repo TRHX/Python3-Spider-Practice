@@ -14,4 +14,5 @@ function s(t) {
     r
 }
 
-console.log(s("测试"))
+// 测试样例
+// console.log(s("测试"))
