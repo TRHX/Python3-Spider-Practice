@@ -1,5 +1,6 @@
 // 还原后的JS，使用工具：https://lelinhtinh.github.io/de4js/
 
+
 (function () {
     var _0x5a577d = function () {
         var _0x5a577d = {};

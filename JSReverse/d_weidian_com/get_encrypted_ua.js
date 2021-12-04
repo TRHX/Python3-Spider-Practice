@@ -1,5 +1,6 @@
 // 改写后的JS
 
+
 var window = {};
 var location = {};
 var document = {};
