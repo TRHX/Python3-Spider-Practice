@@ -404,6 +404,54 @@
         </td>
     </tr>
     <tr>
+        <td>
+            <a href="https://mp.weixin.qq.com/s/ddA-yNmpAKJPZTYH4gLB8g">【JS 逆向百例】某易支付密码 MD5+AES 加密分析</a>
+        </td>
+        <td>
+            <a href="https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/epay_163_com">epay_163_com</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://mp.weixin.qq.com/s/7DpFHJtr1VCHnPjTvWwO_Q">【JS 逆向百例】cnki 学术翻译 AES 加密分析</a>
+        </td>
+        <td>
+            <a href="https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/dict_cnki_net">dict_cnki_net</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://mp.weixin.qq.com/s/XVOr3iJvKlUWNHjNfLwu_A">【JS 逆向百例】Ether Rock 空投接口 AES256 加密分析</a>
+        </td>
+        <td>
+            <a href="https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/etherrock_ne">etherrock_ne</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://mp.weixin.qq.com/s/jaWZ4dsMidX_8kjRCcDzXQ">【JS 逆向百例】你没见过的社会主义核心价值观加密</a>
+        </td>
+        <td>
+            <a href="https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/www_appmiu_com">www_appmiu_com</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://mp.weixin.qq.com/s/fMSCWfWXz4IiF2i7MHAKwQ">【JS 逆向百例】反混淆入门，某鹏教育 JS 混淆还原</a>
+        </td>
+        <td>
+            <a href="https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/learn_open_com_cn">learn_open_com_cn</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://mp.weixin.qq.com/s/TqNLdM5cCRpAw7cOG3Dn7g">【JS 逆向百例】W店UA，OB反混淆，抓包替换CORS跨域错误分析</a>
+        </td>
+        <td>
+            <a href="https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/d_weidian_com">d_weidian_com</a>
+        </td>
+    </tr>
+    <tr>
         <td>华强电子网登录</td>
         <td>
             <a href="https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/passport_hqew_com">passport_hqew_com</a>
