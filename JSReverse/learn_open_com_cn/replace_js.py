@@ -28,3 +28,4 @@ for i in item:
 # 还原后的 JS
 with open("fm_new.js", "w", encoding="utf-8") as f:
     f.write(js)
+
