@@ -1,4 +1,5 @@
 // 引用 crypto-js 加密模块
+
 var CryptoJS = require('crypto-js')
 
 function getEncryptedPassword(password, peEnSeed) {
@@ -15,6 +16,6 @@ function getEncryptedPassword(password, peEnSeed) {
 }
 
 // 测试样例
-var password = "123456"
-var peEnSeed = "2F63CCD861E4397F1C2181006904BAB2"
-console.log(getEncryptedPassword(password, peEnSeed))
+// var password = "123456"
+// var peEnSeed = "2F63CCD861E4397F1C2181006904BAB2"
+// console.log(getEncryptedPassword(password, peEnSeed))
