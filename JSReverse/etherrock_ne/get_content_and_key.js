@@ -67,5 +67,6 @@ function getContentAndKey(address) {
     return result
 }
 
+
 // 测试样例
 // console.log(getContentAndKey("xxxxxxxxxxxxxxxx"))
