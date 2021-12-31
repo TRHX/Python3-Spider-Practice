@@ -14,6 +14,7 @@ import requests
 
 
 challenge_api = "http://spider.wangluozhe.com/challenge/api/2"
+
 headers = {
     "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8",
     "Cookie": "session=eb2d1c7c-3179-4776-938e-f995478c1ebe.wdC8W9r38z_O97ynvrtBlSEQzPk",

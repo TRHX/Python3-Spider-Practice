@@ -8,7 +8,6 @@
 # @Software: PyCharm
 # ================================== */
 
-
 var hexcase = 0;
 var chrsz = 8;
 
