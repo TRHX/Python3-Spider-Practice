@@ -452,6 +452,70 @@
         </td>
     </tr>
     <tr>
+        <td>
+            <a href="https://mp.weixin.qq.com/s/Kx2TrcOCotZvNjSpStAnQg">【JS 逆向百例】WebSocket 协议爬虫，智慧树扫码登录案例分析</a>
+        </td>
+        <td>
+            <a href="https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/passport_zhihuishu_com">passport_zhihuishu_com</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://mp.weixin.qq.com/s/b-3YJrwOGjNzMxnh9SY2Lg">【JS 逆向百例】网洛者反爬练习平台第一题：JS 混淆加密，反 Hook 操作</a>
+        </td>
+        <td>
+            <a href="https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/spider_wangluozhe_com_challenge_1">spider_wangluozhe_com_challenge_1</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://mp.weixin.qq.com/s/BO4UFe9nF30oK9Ht6qG18g">【JS 逆向百例】网洛者反爬练习平台第二题：JJEncode 加密</a>
+        </td>
+        <td>
+            <a href="https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/spider_wangluozhe_com_challenge_2">spider_wangluozhe_com_challenge_2</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://mp.weixin.qq.com/s/MJAmr8bff8aUTRHPMUOmiA">【JS 逆向百例】网洛者反爬练习平台第三题：AAEncode 加密</a>
+        </td>
+        <td>
+            <a href="https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/spider_wangluozhe_com_challenge_3">spider_wangluozhe_com_challenge_3</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://mp.weixin.qq.com/s/ddNNxTx66-tg55Vmzo-wJQ">【JS 逆向百例】网洛者反爬练习平台第四题：JSFuck 加密</a>
+        </td>
+        <td>
+            <a href="https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/spider_wangluozhe_com_challenge_4">spider_wangluozhe_com_challenge_4</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://mp.weixin.qq.com/s/kpMG4XdDRXeNFydd_pYghw">【JS 逆向百例】网洛者反爬练习平台第五题：控制台反调试</a>
+        </td>
+        <td>
+            <a href="https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/spider_wangluozhe_com_challenge_5">spider_wangluozhe_com_challenge_5</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://mp.weixin.qq.com/s/8k7Ys13P6q8cb1a6kOnn1w">【JS 逆向百例】网洛者反爬练习平台第六题：JS 加密，环境模拟检测</a>
+        </td>
+        <td>
+            <a href="https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/spider_wangluozhe_com_challenge_6">spider_wangluozhe_com_challenge_6</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://mp.weixin.qq.com/s/-kgcz6k8krM0pcHYqzKf-g">【JS 逆向百例】X球投资者社区 cookie 参数 acw_sc__v2 加密分析</a>
+        </td>
+        <td>
+            <a href="https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/xueqiu_com">xueqiu_com</a>
+        </td>
+    </tr>
+    <tr>
         <td>华强电子网登录</td>
         <td>
             <a href="https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/passport_hqew_com">passport_hqew_com</a>
