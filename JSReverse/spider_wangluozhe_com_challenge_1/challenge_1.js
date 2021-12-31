@@ -61,6 +61,7 @@ var liIIIi11 = function(_0x11145e, _0x3cbe90) {
         _0x1bba22 = _0x1bba22 ^ 0x661c2;
     }
 }(iiIIilii, liIIIi11));
+
 // window[liIIIi11('0')](function() {
 //     var l111IlII = liIIIi11('1') + liIIIi11('2');
 //     if (typeof iｉl == liIIIi11('3') + liIIIi11('4') || iｉl != l111IlII + liIIIi11('5') + l111IlII[liIIIi11('6')]) {
@@ -71,6 +72,7 @@ var liIIIi11 = function(_0x11145e, _0x3cbe90) {
 //     }
 //     iliI1lli();
 // }, 0x7d0);
+
 (function() {
     var iiIIiil = function() {
         var IllIlIlI = !![];
