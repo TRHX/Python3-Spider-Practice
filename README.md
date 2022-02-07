@@ -516,6 +516,31 @@
         </td>
     </tr>
     <tr>
+        <td>
+            <a href="hhttps://mp.weixin.qq.com/s/cO0YHQE_J5VGR7954SAnlw">【JS 逆向百例】PEDATA 加密资讯以及 zlib.gunzipSync() 的应用</a>
+        </td>
+        <td>
+            <a href="https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/max_pedata_cn">max_pedata_cn</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://mp.weixin.qq.com/s/ithWRqLCIzAi-CKiD6mMdg">某空气质量监测平台无限 debugger 以及数据动态加密分析</a>
+        </td>
+        <td>
+            <a href="https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/www_aqistudy_cn">www_aqistudy_cn</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://mp.weixin.qq.com/s/LTMvwrT-UFfH39rRsleyQA">【JS 逆向百例】HN政务服务网登录逆向，验证码形同虚设</a>
+        </td>
+        <td>
+            <a href="https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/www_hnzwfw_gov_cn">www_hnzwfw_gov_cn</a>
+        </td>
+    </tr>
+
+    <tr>
         <td>华强电子网登录</td>
         <td>
             <a href="https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/passport_hqew_com">passport_hqew_com</a>
