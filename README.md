@@ -517,7 +517,7 @@
     </tr>
     <tr>
         <td>
-            <a href="hhttps://mp.weixin.qq.com/s/cO0YHQE_J5VGR7954SAnlw">【JS 逆向百例】PEDATA 加密资讯以及 zlib.gunzipSync() 的应用</a>
+            <a href="https://mp.weixin.qq.com/s/cO0YHQE_J5VGR7954SAnlw">【JS 逆向百例】PEDATA 加密资讯以及 zlib.gunzipSync() 的应用</a>
         </td>
         <td>
             <a href="https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/max_pedata_cn">max_pedata_cn</a>
