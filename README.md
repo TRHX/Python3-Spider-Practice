@@ -540,6 +540,38 @@
         </td>
     </tr>
     <tr>
+        <td>
+            <a href="https://mp.weixin.qq.com/s/Hb7bgHoIW6zBNOMBqiWPaQ">【JS 逆向百例】吾爱破解2022春节解题领红包之番外篇 Web 中级题解</a>
+        </td>
+        <td>
+            \
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://mp.weixin.qq.com/s/9uKho4LY5fbrnHdJiPZ3KA">RPC 技术及其框架 Sekiro 在爬虫逆向中的应用，加密数据一把梭！</a>
+        </td>
+        <td>
+           \
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://mp.weixin.qq.com/s/TlUhLCBc1CKhiVRNHEIdmw">深度剖析 JA3 指纹及突破</a>
+        </td>
+        <td>
+            \
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://mp.weixin.qq.com/s/b8yRLCb0SFhRsrfwZaCEjQ">【JS 逆向百例】拉勾网爬虫，traceparent、__lg_stoken__、X-S-HEADER 等参数分析</a>
+        </td>
+        <td>
+            <a href="https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/www_lagou_com">www_lagou_com</a>
+        </td>
+    </tr>
+    <tr>
         <td>华强电子网登录</td>
         <td>
             <a href="https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/passport_hqew_com">passport_hqew_com</a>
