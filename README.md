@@ -309,10 +309,10 @@
     </tr>
     <tr>
         <td>
-            <a href="https://mp.weixin.qq.com/s/E4pzttU9DvPpCYrAydZ1Rg">【JS 逆向百例】DOM事件断点调试，中烟新商盟登录逆向</a>
+            【JS 逆向百例】DOM事件断点调试，中烟新商盟登录逆向
         </td>
         <td>
-            <a href="https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/www_xinshangmeng_com">www_xinshangmeng_com</a>
+            应版权方要求已删除
         </td>
     </tr>
     <tr>
