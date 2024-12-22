@@ -49,7 +49,7 @@
 > 5. 我的个人博客：[www.itbob.cn](https://www.itbob.cn/)，有一些以前的逆向文章。
 
 <div align="center">
-    <img alt="雕虫小技交流群" src="/image/chat.png" height="600">
+    <img alt="雕虫小技交流群" src="/image/chat.png">
 </div>
 
 ---
