@@ -34,15 +34,23 @@
 
 ---
 
-<h3 align="center">‼️2024.12.22 更新‼️</h3>
+<h3 align="center">‼️2024.12.22 更新必看‼️</h3>
 
 > [!CAUTION]
 本仓库最开始储存本人的练习样例，后续由本人从0打造、建设、运营公司公众号：K哥爬虫，仓库改为储存公众号文章的部分代码，为公众号引流，2023年无奈变相被迫离职，公众号交还给公司其他人运营，2024年又被这家公司背刺抄袭本人网站 [spiderbox.cn](https://spiderbox.cn/)（[点击查看文章](https://mp.weixin.qq.com/s/7vFpmhvU8-DCONlvlklMTQ)），再加上仓库代码样例比较简单，且过于陈旧，很多都已无效，所以删掉了所有文章链接，本仓库已经没有学习价值，请在新的项目里关注我：
 > 1. 虫盒（[spiderbox.cn](https://spiderbox.cn/)）：爬虫逆向资源导航站，全网优质博主最新逆向文章、视频同步收录更新，一站式追踪最新逆向安全技术；
+>
 > 2. 虫术（[spiderapi.cn](https://spiderapi.cn/)）：爬虫逆向常用 API，JS Hook、Frida Api、ADB命令、浏览器指纹、TLS指纹、数据解析提取等文档一站式查询；
+> 
 > 3. 虫规（[spidergrc.cn](https://spidergrc.cn/)）：数据采集合规性建设（Governance, Risk management and Compliance），致力于推动数据采集合规化；
-> 4. 虫技：微信公众号虫技，分享攻防知识，探索技术边界，挖掘数据价值；搜索微信号：**spider_skill** 或者 **IT-BOB**；
+>    
+> 4. 微信公众号虫技，分享攻防知识，探索技术边界，挖掘数据价值；搜索微信号：**spider_skill** 或者 **IT-BOB**；
+>    
 > 5. 我的个人博客：[www.itbob.cn](https://www.itbob.cn/)，有一些以前的逆向文章。
+
+<div align="center">
+    <img alt="雕虫小技交流群" src="/image/chat.png" height="600">
+</div>
 
 ---
 
