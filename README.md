@@ -4,22 +4,19 @@
     <a href="https://itrhx.blog.csdn.net/category_9351278.html">
         <img alt="CSDN 爬虫实战专栏" src="https://img.shields.io/static/v1?label=CSDN%20%E7%88%AC%E8%99%AB%E5%AE%9E%E6%88%98%E4%B8%93%E6%A0%8F&message=%20&color=%23F91310&logo=SciPy&style=flat-square&logoColor=white">
     </a>&nbsp;&nbsp;
-    <a href="https://www.itrhx.com/categories/Python3-%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E7%88%AC%E8%99%AB%E5%AE%9E%E6%88%98/">
-        <img alt="个人博客爬虫实战专栏" src="https://img.shields.io/static/v1?label=%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%88%AC%E8%99%AB%E5%AE%9E%E6%88%98%E4%B8%93%E6%A0%8F&message=%20&color=%230077E6&logo=Spyder%20IDE&style=flat-square&logoColor=white">
+    <a href="https://www.itbob.cn/">
+        <img alt="个人博客爬虫实战" src="https://img.shields.io/static/v1?label=%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%88%AC%E8%99%AB%E5%AE%9E%E6%88%98&message=%20&color=%230077E6&logo=Spyder%20IDE&style=flat-square&logoColor=white">
     </a>
 </div>
 <br>
 <div align="center">
-    <a href="https://www.itrhx.com/">
+    <a href="https://www.itbob.cn/">
         <img alt="BLOG URL" src="https://img.shields.io/static/v1?label=BLOG&message=%20&color=%23FBBC05&logo=hexo&style=flat-square&logoColor=white">
     </a>&nbsp;&nbsp;
     <a href="https://itrhx.blog.csdn.net/">
         <img alt="CSDN URL" src="https://img.shields.io/static/v1?label=CSDN&message=%20&color=%23F91310&logo=c&style=flat-square&logoColor=white">
     </a>&nbsp;&nbsp;
-    <a href="https://www.zhihu.com/people/itrhx">
-        <img alt="Zhihu URL" src="https://img.shields.io/static/v1?label=Zhihu&message=%20&color=%230077E6&logo=zhihu&style=flat-square&logoColor=white">
-    </a>&nbsp;&nbsp;
-    <a href="mailto:admin@itrhx.com">
+    <a href="mailto:admin@itbob.cn">
         <img alt="MAIL" src="https://img.shields.io/static/v1?label=MAIL&message=%20&color=green2&logo=gmail&style=flat-square&logoColor=white">
     </a>&nbsp;&nbsp;
     <a href="https://github.com/TRHX/">
@@ -30,12 +27,22 @@
     </a>
 </div>
 <br>
+
 <div align="center">
-    <a href="https://github.com/TRHX/Python3-Spider-Practice">
-        <img alt="Python3 Spider Practice" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.1/icons/spyderide.svg" height="200" width="200"></img>
-        <img alt="微信公众号：K哥爬虫" src="https://img-blog.csdnimg.cn/c8918142f3fa4bb3adb1df0e253cd2ff.gif" height="185" width="512"></img>
-    </a>
+    <img alt="Python3 Spider Practice" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.1/icons/spyderide.svg" height="200" width="200">
 </div>
+
+---
+
+<h3 align="center">‼️2024.12.22 更新‼️</h3>
+
+> [!CAUTION]
+本仓库最开始储存本人的练习样例，后续由本人从0打造、建设、运营公司公众号：K哥爬虫，仓库改为储存公众号文章的部分代码，为公众号引流，2023年无奈变相被迫离职，公众号交还给公司其他人运营，2024年又被这家公司背刺抄袭本人网站 [spiderbox.cn](https://spiderbox.cn/)（[点击查看文章](https://mp.weixin.qq.com/s/7vFpmhvU8-DCONlvlklMTQ)），再加上仓库代码样例比较简单，且过于陈旧，很多都已无效，所以删掉了所有文章链接，本仓库已经没有学习价值，请在新的项目里关注我：
+> 1. 虫盒（[spiderbox.cn](https://spiderbox.cn/)）：爬虫逆向资源导航站，全网优质博主最新逆向文章、视频同步收录更新，一站式追踪最新逆向安全技术；
+> 2. 虫术（[spiderapi.cn](https://spiderapi.cn/)）：爬虫逆向常用 API，JS Hook、Frida Api、ADB命令、浏览器指纹、TLS指纹、数据解析提取等文档一站式查询；
+> 3. 虫规（[spidergrc.cn](https://spidergrc.cn/)）：数据采集合规性建设（Governance, Risk management and Compliance），致力于推动数据采集合规化；
+> 4. 虫技：微信公众号虫技，分享攻防知识，探索技术边界，挖掘数据价值；搜索微信号：**spider_skill** 或者 **IT-BOB**；
+> 5. 我的个人博客：[www.itbob.cn](https://www.itbob.cn/)，有一些以前的逆向文章。
 
 ---
 
@@ -59,7 +66,7 @@
 
 - **[FightAgainstSpider](https://github.com/TRHX/Python3-Spider-Practice#fightagainstspider-%E5%8F%8D%E5%8F%8D%E7%88%AC)**：针对常见的反爬虫手段的爬虫，如字体加密等；
 
-- **[JSReverse](https://github.com/TRHX/Python3-Spider-Practice#jsreverse-js-%E9%80%86%E5%90%91)**：JS 加密解密、JS 逆向相关文章，重点关注逆向解密过程；【可以关注 [K 哥爬虫](https://blog.csdn.net/kdl_csdn) 同步更新】
+- **[JSReverse](https://github.com/TRHX/Python3-Spider-Practice#jsreverse-js-%E9%80%86%E5%90%91)**：JS 加密解密、JS 逆向相关文章，重点关注逆向解密过程；
 
 - **[SignIn](https://github.com/TRHX/Python3-Spider-Practice#signin-%E7%AD%BE%E5%88%B0%E6%8A%BD%E5%A5%96)**：针对各种签到、抽奖的爬虫；
 
@@ -205,7 +212,7 @@
     </tr>
     <tr>
         <td>
-            <a href="https://mp.weixin.qq.com/s/vR0ZPCAJMUF992chUfBNSQ">【爬虫知识】浏览器开发者工具使用技巧总结</a>
+            <a href="#">【爬虫知识】浏览器开发者工具使用技巧总结</a>
         </td>
         <td>
         \
@@ -213,7 +220,7 @@
     </tr>
     <tr>
         <td>
-            <a href="https://mp.weixin.qq.com/s/4QTee0M9ukN6olgoR_LMug">【爬虫知识】爬虫常见加密解密算法</a>
+            <a href="#">【爬虫知识】爬虫常见加密解密算法</a>
         </td>
         <td>
         \
@@ -221,7 +228,7 @@
     </tr>
     <tr>
         <td>
-            <a href="https://mp.weixin.qq.com/s/li_UBzEUvLmaL207eFhyvw">【JS 逆向百例】百度翻译接口参数逆向</a>
+            <a href="#">【JS 逆向百例】百度翻译接口参数逆向</a>
         </td>
         <td>
             <a href="https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/fanyi_baidu_com">fanyi_baidu_com</a>
@@ -229,7 +236,7 @@
     </tr>
     <tr>
         <td>
-            <a href="https://mp.weixin.qq.com/s/p9oFqVQhHn4tlpqonAdNSQ">【JS 逆向百例】有道翻译接口参数逆向</a>
+            <a href="#">【JS 逆向百例】有道翻译接口参数逆向</a>
         </td>
         <td>
             <a href="https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/fanyi_youdao_com">fanyi_youdao_com</a>
@@ -237,7 +244,7 @@
     </tr>
     <tr>
         <td>
-            <a href="https://mp.weixin.qq.com/s/QmWy0zhsE0ZwEJwrfCohTA">【JS 逆向百例】建筑市场监管服务平台企业数据</a>
+            <a href="#">【JS 逆向百例】建筑市场监管服务平台企业数据</a>
         </td>
         <td>
             <a href="https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/jzsc_mohurd_gov_cn">jzsc_mohurd_gov_cn</a>
@@ -245,7 +252,7 @@
     </tr>
     <tr>
         <td>
-            <a href="https://mp.weixin.qq.com/s/1eXvxbZklEtwrkUn4iEmtQ">【JS 逆向百例】当乐网登录接口参数逆向</a>
+            <a href="#">【JS 逆向百例】当乐网登录接口参数逆向</a>
         </td>
         <td>
             <a href="https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/oauth_d_cn">oauth_d_cn</a>
@@ -253,7 +260,7 @@
     </tr>
     <tr>
         <td>
-            <a href="https://mp.weixin.qq.com/s/yQMlvddLHi_lSQAuK05HyA">【JS 逆向百例】房天下登录接口参数逆向</a>
+            <a href="#">【JS 逆向百例】房天下登录接口参数逆向</a>
         </td>
         <td>
             <a href="https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/passport_fang_com">passport_fang_com</a>
@@ -261,7 +268,7 @@
     </tr>
     <tr>
         <td>
-            <a href="https://mp.weixin.qq.com/s/OrDOGRECm-k7f_thL6NO1A">【JS 逆向百例】37网游登录接口参数逆向</a>
+            <a href="#">【JS 逆向百例】37网游登录接口参数逆向</a>
         </td>
         <td>
             <a href="https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/www_37_com">www_37_com</a>
@@ -269,7 +276,7 @@
     </tr>
     <tr>
         <td>
-            <a href="https://mp.weixin.qq.com/s/tvzh0tIs1N_R3Ycj8r5SMg">【JS 逆向百例】层层嵌套！匀加速商城 RSA 加密</a>
+            <a href="#">【JS 逆向百例】层层嵌套！匀加速商城 RSA 加密</a>
         </td>
         <td>
             <a href="https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/www_15yunmall_com">www_15yunmall_com</a>
@@ -277,7 +284,7 @@
     </tr>
     <tr>
         <td>
-            <a href="https://mp.weixin.qq.com/s/gBOTxUiq1RgOaZtdR6XRSA">【JS 逆向百例】转变思路，少走弯路，小米加密分析</a>
+            <a href="#">【JS 逆向百例】转变思路，少走弯路，小米加密分析</a>
         </td>
         <td>
             <a href="https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/account_xiaomi_com">account_xiaomi_com</a>
@@ -285,7 +292,7 @@
     </tr>
     <tr>
         <td>
-            <a href="https://mp.weixin.qq.com/s/KWJLN3O2qTwqjj3ZrVo2fA">【JS 逆向百例】元素ID定位加密位置，天凤麻将数据逆向</a>
+            <a href="#">【JS 逆向百例】元素ID定位加密位置，天凤麻将数据逆向</a>
         </td>
         <td>
             <a href="https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/tenhou_net">tenhou_net</a>
@@ -293,7 +300,7 @@
     </tr>
     <tr>
         <td>
-            <a href="https://mp.weixin.qq.com/s/iwOMzACFk90PHTdH8FoA4g">【JS 逆向百例】复杂的登录过程，最新微博逆向</a>
+            <a href="#">【JS 逆向百例】复杂的登录过程，最新微博逆向</a>
         </td>
         <td>
             <a href="https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/weibo_com">weibo_com</a>
@@ -301,7 +308,7 @@
     </tr>
     <tr>
         <td>
-            <a href="https://mp.weixin.qq.com/s/iktAAarSwGXNXgNFpeAQlA">【JS 逆向百例】无限debugger绕过，三河市政务网站互动数据逆向</a>
+            <a href="#">【JS 逆向百例】无限debugger绕过，三河市政务网站互动数据逆向</a>
         </td>
         <td>
             <a href="https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/zwfw_san-he_gov_cn">zwfw_san-he_gov_cn</a>
@@ -317,7 +324,7 @@
     </tr>
     <tr>
         <td>
-            <a href="https://mp.weixin.qq.com/s/DPNtkF9e1pvFVa1m-DsyJw">【JS 逆向百例】XHR 断点调试，Steam 登录逆向</a>
+            <a href="#">【JS 逆向百例】XHR 断点调试，Steam 登录逆向</a>
         </td>
         <td>
             <a href="https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/store_steampowered_com">store_steampowered_com</a>
@@ -325,7 +332,7 @@
     </tr>
     <tr>
         <td>
-            <a href="https://mp.weixin.qq.com/s/Vj-7P99H6fK5LDUgrktCuw">【JS 逆向百例】如何跟栈调试？某 e 网通 AES 加密分析</a>
+            <a href="#">【JS 逆向百例】如何跟栈调试？某 e 网通 AES 加密分析</a>
         </td>
         <td>
             <a href="https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/web_ewt360_com">web_ewt360_com</a>
@@ -333,7 +340,7 @@
     </tr>
     <tr>
         <td>
-            <a href="https://mp.weixin.qq.com/s/IYFyjVrVkHtUdCzn9arkJQ">JS 逆向之 Hook，吃着火锅唱着歌，突然就被麻匪劫了！</a>
+            <a href="#">JS 逆向之 Hook，吃着火锅唱着歌，突然就被麻匪劫了！</a>
         </td>
         <td>
         \
@@ -341,7 +348,7 @@
     </tr>
     <tr>
         <td>
-            <a href="https://mp.weixin.qq.com/s/H4oQvqZmWS4af1VF1nAzkA">【JS 逆向百例】Fiddler 插件 Hook 实战，某创帮登录逆向</a>
+            <a href="#">【JS 逆向百例】Fiddler 插件 Hook 实战，某创帮登录逆向</a>
         </td>
         <td>
             <a href="https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/m_wcbchina_com">m_wcbchina_com</a>
@@ -349,7 +356,7 @@
     </tr>
         <tr>
         <td>
-            <a href="https://mp.weixin.qq.com/s/MaDrCJdJCQKSnXWgCR0c0w">【JS 逆向百例】浏览器插件 Hook 实战，亚航加密参数分析</a>
+            <a href="#">【JS 逆向百例】浏览器插件 Hook 实战，亚航加密参数分析</a>
         </td>
         <td>
             <a href="https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/www_airasia_com">www_airasia_com</a>
@@ -357,7 +364,7 @@
     </tr>
     <tr>
         <td>
-            <a href="https://mp.weixin.qq.com/s/_-9Ib6H51rWGK60X_g2n1g">爬虫逆向基础，理解 JavaScript 模块化编程 webpack</a>
+            <a href="#">爬虫逆向基础，理解 JavaScript 模块化编程 webpack</a>
         </td>
         <td>
             \
@@ -365,7 +372,7 @@
     </tr>
     <tr>
         <td>
-            <a href="https://itrhx.blog.csdn.net/article/details/121167569">当爬虫工程师遇到CTF丨B站1024安全攻防题解</a>
+            <a href="#">当爬虫工程师遇到CTF丨B站1024安全攻防题解</a>
         </td>
         <td>
             \
@@ -373,7 +380,7 @@
     </tr>
     <tr>
         <td>
-            <a href="https://mp.weixin.qq.com/s/LCnpt37NjiTtBYToqNdQaA">【JS 逆向百例】webpack 改写实战，G 某游戏 RSA 加密</a>
+            <a href="#">【JS 逆向百例】webpack 改写实战，G 某游戏 RSA 加密</a>
         </td>
         <td>
             <a href="https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/www_gm99_com">www_gm99_com</a>
@@ -381,7 +388,7 @@
     </tr>
     <tr>
         <td>
-            <a href="https://mp.weixin.qq.com/s/3PgJTsb3moYES0_UJ9Lwkw">【JS逆向百例】某音乐网分离式 webpack 非 IIFE 改写实战</a>
+            <a href="#">【JS逆向百例】某音乐网分离式 webpack 非 IIFE 改写实战</a>
         </td>
         <td>
             <a href="https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/www_kuwo_cn">www_kuwo_cn</a>
@@ -389,7 +396,7 @@
     </tr>
     <tr>
         <td>
-            <a href="https://mp.weixin.qq.com/s/IsoXn_jZI6YdqC7uXVDYiQ">爬虫逆向基础，认识 SM1-SM9、ZUC 国密算法</a>
+            <a href="#">爬虫逆向基础，认识 SM1-SM9、ZUC 国密算法</a>
         </td>
         <td>
             \
@@ -397,7 +404,7 @@
     </tr>
     <tr>
         <td>
-            <a href="https://mp.weixin.qq.com/s/hs0Mz-2GmyOMAdWB22fG5w">【JS 逆向百例】医保局 SM2+SM4 国产加密算法实战</a>
+            <a href="#">【JS 逆向百例】医保局 SM2+SM4 国产加密算法实战</a>
         </td>
         <td>
             <a href="https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/fuwu_nhsa_gov_cn">fuwu_nhsa_gov_cn</a>
@@ -405,7 +412,7 @@
     </tr>
     <tr>
         <td>
-            <a href="https://mp.weixin.qq.com/s/ddA-yNmpAKJPZTYH4gLB8g">【JS 逆向百例】某易支付密码 MD5+AES 加密分析</a>
+            <a href="#">【JS 逆向百例】某易支付密码 MD5+AES 加密分析</a>
         </td>
         <td>
             <a href="https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/epay_163_com">epay_163_com</a>
@@ -413,7 +420,7 @@
     </tr>
     <tr>
         <td>
-            <a href="https://mp.weixin.qq.com/s/7DpFHJtr1VCHnPjTvWwO_Q">【JS 逆向百例】cnki 学术翻译 AES 加密分析</a>
+            <a href="#">【JS 逆向百例】cnki 学术翻译 AES 加密分析</a>
         </td>
         <td>
             <a href="https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/dict_cnki_net">dict_cnki_net</a>
@@ -421,7 +428,7 @@
     </tr>
     <tr>
         <td>
-            <a href="https://mp.weixin.qq.com/s/XVOr3iJvKlUWNHjNfLwu_A">【JS 逆向百例】Ether Rock 空投接口 AES256 加密分析</a>
+            <a href="#">【JS 逆向百例】Ether Rock 空投接口 AES256 加密分析</a>
         </td>
         <td>
             <a href="https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/etherrock_ne">etherrock_ne</a>
@@ -429,7 +436,7 @@
     </tr>
     <tr>
         <td>
-            <a href="https://mp.weixin.qq.com/s/jaWZ4dsMidX_8kjRCcDzXQ">【JS 逆向百例】你没见过的社会主义核心价值观加密</a>
+            <a href="#">【JS 逆向百例】你没见过的社会主义核心价值观加密</a>
         </td>
         <td>
             <a href="https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/www_appmiu_com">www_appmiu_com</a>
@@ -437,7 +444,7 @@
     </tr>
     <tr>
         <td>
-            <a href="https://mp.weixin.qq.com/s/fMSCWfWXz4IiF2i7MHAKwQ">【JS 逆向百例】反混淆入门，某鹏教育 JS 混淆还原</a>
+            <a href="#">【JS 逆向百例】反混淆入门，某鹏教育 JS 混淆还原</a>
         </td>
         <td>
             <a href="https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/learn_open_com_cn">learn_open_com_cn</a>
@@ -445,7 +452,7 @@
     </tr>
     <tr>
         <td>
-            <a href="https://mp.weixin.qq.com/s/TqNLdM5cCRpAw7cOG3Dn7g">【JS 逆向百例】W店UA，OB反混淆，抓包替换CORS跨域错误分析</a>
+            <a href="#">【JS 逆向百例】W店UA，OB反混淆，抓包替换CORS跨域错误分析</a>
         </td>
         <td>
             <a href="https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/d_weidian_com">d_weidian_com</a>
@@ -453,7 +460,7 @@
     </tr>
     <tr>
         <td>
-            <a href="https://mp.weixin.qq.com/s/Kx2TrcOCotZvNjSpStAnQg">【JS 逆向百例】WebSocket 协议爬虫，智慧树扫码登录案例分析</a>
+            <a href="#">【JS 逆向百例】WebSocket 协议爬虫，智慧树扫码登录案例分析</a>
         </td>
         <td>
             <a href="https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/passport_zhihuishu_com">passport_zhihuishu_com</a>
@@ -461,7 +468,7 @@
     </tr>
     <tr>
         <td>
-            <a href="https://mp.weixin.qq.com/s/b-3YJrwOGjNzMxnh9SY2Lg">【JS 逆向百例】网洛者反爬练习平台第一题：JS 混淆加密，反 Hook 操作</a>
+            <a href="#">【JS 逆向百例】网洛者反爬练习平台第一题：JS 混淆加密，反 Hook 操作</a>
         </td>
         <td>
             <a href="https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/spider_wangluozhe_com_challenge_1">spider_wangluozhe_com_challenge_1</a>
@@ -469,7 +476,7 @@
     </tr>
     <tr>
         <td>
-            <a href="https://mp.weixin.qq.com/s/BO4UFe9nF30oK9Ht6qG18g">【JS 逆向百例】网洛者反爬练习平台第二题：JJEncode 加密</a>
+            <a href="#">【JS 逆向百例】网洛者反爬练习平台第二题：JJEncode 加密</a>
         </td>
         <td>
             <a href="https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/spider_wangluozhe_com_challenge_2">spider_wangluozhe_com_challenge_2</a>
@@ -477,7 +484,7 @@
     </tr>
     <tr>
         <td>
-            <a href="https://mp.weixin.qq.com/s/MJAmr8bff8aUTRHPMUOmiA">【JS 逆向百例】网洛者反爬练习平台第三题：AAEncode 加密</a>
+            <a href="#">【JS 逆向百例】网洛者反爬练习平台第三题：AAEncode 加密</a>
         </td>
         <td>
             <a href="https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/spider_wangluozhe_com_challenge_3">spider_wangluozhe_com_challenge_3</a>
@@ -485,7 +492,7 @@
     </tr>
     <tr>
         <td>
-            <a href="https://mp.weixin.qq.com/s/ddNNxTx66-tg55Vmzo-wJQ">【JS 逆向百例】网洛者反爬练习平台第四题：JSFuck 加密</a>
+            <a href="#">【JS 逆向百例】网洛者反爬练习平台第四题：JSFuck 加密</a>
         </td>
         <td>
             <a href="https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/spider_wangluozhe_com_challenge_4">spider_wangluozhe_com_challenge_4</a>
@@ -493,7 +500,7 @@
     </tr>
     <tr>
         <td>
-            <a href="https://mp.weixin.qq.com/s/kpMG4XdDRXeNFydd_pYghw">【JS 逆向百例】网洛者反爬练习平台第五题：控制台反调试</a>
+            <a href="#">【JS 逆向百例】网洛者反爬练习平台第五题：控制台反调试</a>
         </td>
         <td>
             <a href="https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/spider_wangluozhe_com_challenge_5">spider_wangluozhe_com_challenge_5</a>
@@ -501,7 +508,7 @@
     </tr>
     <tr>
         <td>
-            <a href="https://mp.weixin.qq.com/s/8k7Ys13P6q8cb1a6kOnn1w">【JS 逆向百例】网洛者反爬练习平台第六题：JS 加密，环境模拟检测</a>
+            <a href="#">【JS 逆向百例】网洛者反爬练习平台第六题：JS 加密，环境模拟检测</a>
         </td>
         <td>
             <a href="https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/spider_wangluozhe_com_challenge_6">spider_wangluozhe_com_challenge_6</a>
@@ -509,7 +516,7 @@
     </tr>
     <tr>
         <td>
-            <a href="https://mp.weixin.qq.com/s/-kgcz6k8krM0pcHYqzKf-g">【JS 逆向百例】X球投资者社区 cookie 参数 acw_sc__v2 加密分析</a>
+            <a href="#">【JS 逆向百例】X球投资者社区 cookie 参数 acw_sc__v2 加密分析</a>
         </td>
         <td>
             <a href="https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/xueqiu_com">xueqiu_com</a>
@@ -517,7 +524,7 @@
     </tr>
     <tr>
         <td>
-            <a href="https://mp.weixin.qq.com/s/cO0YHQE_J5VGR7954SAnlw">【JS 逆向百例】PEDATA 加密资讯以及 zlib.gunzipSync() 的应用</a>
+            <a href="#">【JS 逆向百例】PEDATA 加密资讯以及 zlib.gunzipSync() 的应用</a>
         </td>
         <td>
             <a href="https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/max_pedata_cn">max_pedata_cn</a>
@@ -525,7 +532,7 @@
     </tr>
     <tr>
         <td>
-            <a href="https://mp.weixin.qq.com/s/ithWRqLCIzAi-CKiD6mMdg">某空气质量监测平台无限 debugger 以及数据动态加密分析</a>
+            <a href="#">某空气质量监测平台无限 debugger 以及数据动态加密分析</a>
         </td>
         <td>
             <a href="https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/www_aqistudy_cn">www_aqistudy_cn</a>
@@ -533,7 +540,7 @@
     </tr>
     <tr>
         <td>
-            <a href="https://mp.weixin.qq.com/s/LTMvwrT-UFfH39rRsleyQA">【JS 逆向百例】HN政务服务网登录逆向，验证码形同虚设</a>
+            <a href="#">【JS 逆向百例】HN政务服务网登录逆向，验证码形同虚设</a>
         </td>
         <td>
             <a href="https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/www_hnzwfw_gov_cn">www_hnzwfw_gov_cn</a>
@@ -541,7 +548,7 @@
     </tr>
     <tr>
         <td>
-            <a href="https://mp.weixin.qq.com/s/Hb7bgHoIW6zBNOMBqiWPaQ">【JS 逆向百例】吾爱破解2022春节解题领红包之番外篇 Web 中级题解</a>
+            <a href="#">【JS 逆向百例】吾爱破解2022春节解题领红包之番外篇 Web 中级题解</a>
         </td>
         <td>
             \
@@ -549,7 +556,7 @@
     </tr>
     <tr>
         <td>
-            <a href="https://mp.weixin.qq.com/s/9uKho4LY5fbrnHdJiPZ3KA">RPC 技术及其框架 Sekiro 在爬虫逆向中的应用，加密数据一把梭！</a>
+            <a href="#">RPC 技术及其框架 Sekiro 在爬虫逆向中的应用，加密数据一把梭！</a>
         </td>
         <td>
            \
@@ -557,7 +564,7 @@
     </tr>
     <tr>
         <td>
-            <a href="https://mp.weixin.qq.com/s/TlUhLCBc1CKhiVRNHEIdmw">深度剖析 JA3 指纹及突破</a>
+            <a href="#">深度剖析 JA3 指纹及突破</a>
         </td>
         <td>
             \
@@ -565,7 +572,7 @@
     </tr>
     <tr>
         <td>
-            <a href="https://mp.weixin.qq.com/s/b8yRLCb0SFhRsrfwZaCEjQ">【JS 逆向百例】拉勾网爬虫，traceparent、__lg_stoken__、X-S-HEADER 等参数分析</a>
+            <a href="#">【JS 逆向百例】拉勾网爬虫，traceparent、__lg_stoken__、X-S-HEADER 等参数分析</a>
         </td>
         <td>
             <a href="https://github.com/TRHX/Python3-Spider-Practice/tree/master/JSReverse/www_lagou_com">www_lagou_com</a>
@@ -662,9 +669,3 @@
         </td>
     </tr>
 </table>
-
-## 交流群💬
-
-<div align="center">
-    <img alt="K哥爬虫交流群" src="https://img-blog.csdnimg.cn/d3061dcc65c4486bbd075e328ae01a9c.png" height="550" width="700"></img>
-</div>
